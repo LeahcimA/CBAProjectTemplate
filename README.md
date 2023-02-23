@@ -1,6 +1,6 @@
 # CBAProjectTemplate
 Lab for Git on VS Code
 
-Testing Jenkins assignment
+Testing Jenkins assignment again
 
-My first Jenkins deployment from Github
+
